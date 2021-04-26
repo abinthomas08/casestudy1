@@ -1,0 +1,60 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.headingText
+{
+    font-size: 35px;
+    color: black;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.homebody
+{
+    background-image: url("../pexels-jessica-lewis-583846.jpg");
+    background-size: cover;
+    height: auto;
+    width: auto;
+    padding :0;
+}
+
+.login
+{
+    background-color: rgba(13, 173, 221, 0.877);
+    padding: 50px;
+    border: 2px solid black;
+    margin-top: 75px;
+    margin-bottom: 80px;
+    margin-left: 35%;
+    margin-right: 150px;
+    width: 30%;
+    height: fit-content;
+}
+
+.todoBody
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUycCZv1iWsaCnVz4QA22M85D_9HZkNzApQg&usqp=CAU");
+    background-size: cover;
+    height: auto;
+    width: auto;
+    padding :0;
+}
+
+table
+{
+    margin-top: 70px;
+    width: 80%;
+    margin-left: 120px;
+}
+
+table, th, td
+{
+    border: 1px solid rgba(231, 84, 16, 0.7);
+    text-align: center;
+    padding: 5px;
+}
